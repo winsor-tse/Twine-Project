@@ -1,4 +1,9 @@
 # Twine-Project
+
+## How to run it
+Download the HTML file and run it on XAMPP.
+
+## Features and infp:
 A text based project that was made by two people, Using the Twine IDE.
 This Twine uses story branching techniques that include many options and choices for the user.
 Interactive and tells a story of an adventure where choices will eventually have an effect on the entire game.
