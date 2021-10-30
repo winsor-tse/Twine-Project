@@ -2,7 +2,7 @@
 
 ## Example game play:
 
-[any](https://media.giphy.com/media/iJPL2aOiZrf0qJ4GbB/giphy.gif)
+![Alt Text](https://media.giphy.com/media/iJPL2aOiZrf0qJ4GbB/giphy.gif)
 > https://github.com/winsor-tse/Twine-Project/blob/main/ApocalMania.mp4
 
 ## How to run it
